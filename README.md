@@ -1,0 +1,1 @@
+This repository demonstrates a common NullPointerException in ActionScript 3 and its solution. The bug occurs when attempting to access a property of an object that has not been properly initialized or might be null. The solution introduces a null check to prevent this error.
